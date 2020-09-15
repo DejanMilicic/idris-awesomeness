@@ -7,4 +7,5 @@
 * [Various data structures for use in the Idris Language.](https://github.com/jfdm/idris-containers)
 * [Various common utilities for use in Idris](https://github.com/jfdm/idris-commons)
 * [Implementation of 2-3 trees in Idris](https://github.com/amal029/idris-data-structures)
+* [Collection of Idris tests and demonstration programs](https://github.com/idris-hackers/idris-demos)
 

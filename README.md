@@ -9,6 +9,10 @@
 * [Implementation of 2-3 trees in Idris](https://github.com/amal029/idris-data-structures)
 * [Collection of Idris tests and demonstration programs](https://github.com/idris-hackers/idris-demos)
 
+## HTTP API
+
+* [Schema-safe http api using Idris+Rust](https://github.com/janschultecom/kolgut-api)
+
 ## DevOps
 
 * [idringen - a project manage tool for Idris](https://github.com/zjhmale/idringen)

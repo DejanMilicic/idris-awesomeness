@@ -26,4 +26,4 @@
 * [Elaborator Reflection: Extending Idris in Idris](https://www.type-driven.org.uk/edwinb/papers/elab-reflection.pdf)
 * [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://www.type-driven.org.uk/edwinb/papers/impldtp.pdf)
 * [Chris Okasaki: Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-
+* [A tutorial implementation of a dependently typed lambda calculus](https://www.kosmikus.org/LambdaPi/LambdaPi.pdf)

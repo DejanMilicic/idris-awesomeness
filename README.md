@@ -11,11 +11,11 @@
 
 ## HTTP API
 
-* [Schema-safe http api using Idris+Rust](https://github.com/janschultecom/kolgut-api)
+* [kolgut-api : Schema-safe http api using Idris+Rust](https://github.com/janschultecom/kolgut-api)
 
 ## DevOps
 
-* [idringen - a project manage tool for Idris](https://github.com/zjhmale/idringen)
+* [idringen : a project manage tool for Idris](https://github.com/zjhmale/idringen)
 
 ## Papers
 

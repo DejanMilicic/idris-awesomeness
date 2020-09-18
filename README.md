@@ -9,3 +9,6 @@
 * [Implementation of 2-3 trees in Idris](https://github.com/amal029/idris-data-structures)
 * [Collection of Idris tests and demonstration programs](https://github.com/idris-hackers/idris-demos)
 
+## Papers
+
+* [Elaborator Reflection: Extending Idris in Idris](https://www.type-driven.org.uk/edwinb/papers/elab-reflection.pdf)

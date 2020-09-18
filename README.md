@@ -13,6 +13,10 @@
 
 * [kolgut-api : Schema-safe http api using Idris+Rust](https://github.com/janschultecom/kolgut-api)
 
+## Parsxer Combinators
+
+*[lightyear: Parser combinators for Idris](https://github.com/ziman/lightyear)
+
 ## DevOps
 
 * [idringen : a project manage tool for Idris](https://github.com/zjhmale/idringen)

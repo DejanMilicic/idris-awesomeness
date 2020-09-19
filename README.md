@@ -33,3 +33,4 @@
 * [A tutorial implementation of a dependently typed lambda calculus](https://www.kosmikus.org/LambdaPi/LambdaPi.pdf)
 * [Conor McBride: Dependently Typed Functional Programs and their Proofs](http://www.lfcs.inf.ed.ac.uk/reports/00/ECS-LFCS-00-419/ECS-LFCS-00-419.pdf)
 * [Philip Wadler: Theorems for free!](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
+* [David Raymond Christiansen: Practical Reflection and Metaprogramming for Dependent Types](https://davidchristiansen.dk/david-christiansen-phd.pdf)

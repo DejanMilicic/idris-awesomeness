@@ -32,3 +32,4 @@
 * [Chris Okasaki: Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 * [A tutorial implementation of a dependently typed lambda calculus](https://www.kosmikus.org/LambdaPi/LambdaPi.pdf)
 * [Conor McBride: Dependently Typed Functional Programs and their Proofs](http://www.lfcs.inf.ed.ac.uk/reports/00/ECS-LFCS-00-419/ECS-LFCS-00-419.pdf)
+* [Philip Wadler: Theorems for free!](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)

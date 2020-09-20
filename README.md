@@ -21,6 +21,10 @@
 
 * [idringen : a project manage tool for Idris](https://github.com/zjhmale/idringen)
 
+## Package Managers
+
+* [Inigo](https://inigo.pm/)
+
 ## Courses
 
 * [The Implementation of Idris 2](https://github.com/edwinb/SPLV20)

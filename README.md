@@ -29,6 +29,7 @@
 ## Blogs/Tutorials
 
 * [Lightning Intro to Functional Programming and Dependent Types with Idris](https://fieldstrength.org/learn-idris/)
+* [An Interactive Introduction to Dependent Types with Idris](https://donaldpinckney.com/idris/2019/06/25/idris-intro.html)
 
 ## Courses
 

@@ -16,6 +16,7 @@
 ## Parser Combinators
 
 * [lightyear: Parser combinators for Idris](https://github.com/ziman/lightyear)
+* [A simple Parser Combinator library in Idris](https://timmyjose.github.io/docs/2020-09-19-parser-combinator-library-idris)
 
 ## DevOps
 

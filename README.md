@@ -26,6 +26,10 @@
 
 * [Inigo](https://inigo.pm/)
 
+## Blogs/Tutorials
+
+* [Lightning Intro to Functional Programming and Dependent Types with Idris](https://fieldstrength.org/learn-idris/)
+
 ## Courses
 
 * [The Implementation of Idris 2](https://github.com/edwinb/SPLV20)

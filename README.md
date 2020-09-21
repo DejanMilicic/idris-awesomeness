@@ -45,3 +45,4 @@
 * [Philip Wadler: Theorems for free!](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
 * [David Raymond Christiansen: Practical Reflection and Metaprogramming for Dependent Types](https://davidchristiansen.dk/david-christiansen-phd.pdf)
 * [David Raymond Christiansen: Looking Outward: When Dependent Types Meet I/O](https://davidchristiansen.dk/david-christiansen-thesis.pdf)
+* [A Dependently Typed Library for Static Information-Flow Control in Idris](http://www.askarov.net/depsec.pdf) - [GitHub](https://github.com/simongregersen/DepSec)

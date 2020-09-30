@@ -46,3 +46,4 @@
 * [David Raymond Christiansen: Practical Reflection and Metaprogramming for Dependent Types](https://davidchristiansen.dk/david-christiansen-phd.pdf)
 * [David Raymond Christiansen: Looking Outward: When Dependent Types Meet I/O](https://davidchristiansen.dk/david-christiansen-thesis.pdf)
 * [A Dependently Typed Library for Static Information-Flow Control in Idris](http://www.askarov.net/depsec.pdf) - [GitHub](https://github.com/simongregersen/DepSec)
+* [Dependent Types: Level Up Your Types by Marco Syfrig](https://eprints.hsr.ch/577/1/MarcoSyfrigDependentTypes_eprints.pdf)

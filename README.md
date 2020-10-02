@@ -48,3 +48,9 @@
 * [A Dependently Typed Library for Static Information-Flow Control in Idris](http://www.askarov.net/depsec.pdf) - [GitHub](https://github.com/simongregersen/DepSec)
 * [Dependent Types: Level Up Your Types by Marco Syfrig](https://eprints.hsr.ch/577/1/MarcoSyfrigDependentTypes_eprints.pdf)
 * [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf)
+
+--------
+
+https://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf
+https://github.com/idris-hackers/software-foundations
+

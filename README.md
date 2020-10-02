@@ -54,4 +54,6 @@
 https://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf  
 https://github.com/idris-hackers/software-foundations  
 https://eb.host.cs.st-andrews.ac.uk/drafts/dep-eff.pdf  
+https://eb.host.cs.st-andrews.ac.uk/drafts/dsl-idris.pdf  
+
 

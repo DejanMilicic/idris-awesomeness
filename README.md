@@ -56,6 +56,8 @@ https://github.com/idris-hackers/software-foundations
 https://eb.host.cs.st-andrews.ac.uk/drafts/dep-eff.pdf  
 https://eb.host.cs.st-andrews.ac.uk/drafts/dsl-idris.pdf  
 https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf  
+https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf  
+
 
 
 
